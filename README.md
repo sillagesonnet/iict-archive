@@ -1,6 +1,6 @@
 # Creative Coding Archive
 
-The homepage links to two p5.js sketches.
+The homepage links to three p5.js sketches.
 
 - `assignment1/` — Lego Ferrari F1 Car
 - `assignment2/` — Random Character
